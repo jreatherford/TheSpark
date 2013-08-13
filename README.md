@@ -1,10 +1,7 @@
 TheSpark
 ========
 
-MTG Planeschase Simulator
--------------------------------------------
-
-This is a small project I designed mostly for the benifit of me and my friends.
+his is a small project I designed mostly for the benifit of me and my friends.
 
 Basically, it searches the gatherer for planeschase cards and keeps a file on them. It then provides uses with an interface that lets them view a random planeschase card.  The card also acts as a link to the gatherer's page on the card.  Additionally, uses are provided with a virtual planar die that can be "rolled".
 
