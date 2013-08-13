@@ -16,9 +16,7 @@
         <h2> 
             <a href ="play.php">planeswalk</a>
         </h2><br>
-        
-        
-        
+
         Features to be added (in no particular order):
         <ul>
             <li>An interface that does not suck ass</li>
