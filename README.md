@@ -2,7 +2,7 @@ TheSpark
 ========
 
 MTG Planeschase Simulator
-
+-------------------------------------------
 
 This is a small project I designed mostly for the benifit of me and my friends.
 
