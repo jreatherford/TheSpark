@@ -8,26 +8,28 @@
         </title>
     </head>
     
-    <body align="center">
-        <h1>
-                The Spark
+    <div align="center">
+        <body align="center">
+            <h1>
+                    The Spark
+                <br>
+                <!--These show up as Mana Symbols in the MAGIC font-->
+                @ + = < >  
+            </h1>
+
+            <img src="IMG/card.jpg">
+
             <br>
-            <!--These show up as Mana Symbols in the MAGIC font-->
-            @ + = < >  
-        </h1>
-        
-        <img src="IMG/card.jpg">
-        
-        <br>
-        <br>
+            <br>
 
-        <h2>
-            <a href ="Game/Play.php">Begin your Journey</a>
-        </h2>
+            <h2>
+                <a href ="Game/Play.php">Begin your Journey</a>
+            </h2>
 
-        <br>
-        
-    </body>
+            <br>
+
+        </body>
+    <div align="center">
     
     <?php include_once "Footer.php"; ?>
     

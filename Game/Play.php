@@ -57,37 +57,40 @@
 
         }
     </script>
+    
+    <div align="center">
+        <body align="center">
 
-    <body align="center">
-        <h1>
-            The Spark
+            <h1>
+                The Spark
+                <br>
+                <!--These show up as Mana Symbols in the MAGIC font-->
+                @ + = < >  
+            </h1>
+
+            <!-- Call to PHP to display the card-->
+            <?php
+                include_once "Spark.php";
+                echo Spark::draw();
+            ?>
+
             <br>
+
             <!--These show up as Mana Symbols in the MAGIC font-->
-            @ + = < >  
-        </h1>
-        
-        <!-- Call to PHP to display the card-->
-        <?php
-            include_once "Spark.php";
-            echo Spark::draw();
-        ?>
-        
-        <br>
-        
-        <!--These show up as Mana Symbols in the MAGIC font-->
-        @ + = < > 
-        
-        <!--Results of a planar die roll-->
-        <div id="DieStatus">
-            &nbsp <br>
-        </div>
+            @ + = < > 
 
-        <h2> 
-            <a href ="Javascript:rollDie()">Roll the Planar Die</a>
-            <br>
-            <br>
-            <a href ="Play.php">Planeswalk</a>
-        </h2>
-    </body>
-    <?php include_once "../Footer.php"; ?>
+            <!--Results of a planar die roll-->
+            <div id="DieStatus">
+                &nbsp <br>
+            </div>
+
+            <h2> 
+                <a href ="Javascript:rollDie()">Roll the Planar Die</a>
+                <br>
+                <br>
+                <a href ="Play.php">Planeswalk</a>
+            </h2>
+        </body>
+        <?php include_once "../Footer.php"; ?>
+    <div align="center">
 </html>

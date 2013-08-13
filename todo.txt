@@ -1,8 +1,10 @@
-Things that I need to change before I will be ready to host this online:
+Things that need to be changed:
 
-Make the interface prettier
+Fix the ugly border around the corners of cards
 
-Improve the update function (this acually can be done after I host it online)
+Make it so the screen does not have to refresh each time.
+
+Improve the update function
 	Updates on command, not just when there are no cards
 	Makes backups before update
 	Can look for problems with updates (e.g., less cards in new version)
