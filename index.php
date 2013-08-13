@@ -29,7 +29,7 @@
             <br>
 
         </body>
-    <div align="center">
+    </div>
     
     <?php include_once "Footer.php"; ?>
     

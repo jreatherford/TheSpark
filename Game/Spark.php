@@ -37,7 +37,7 @@ class Spark {
         $page_html = str_replace("../",self::url_header,$page_html);
         
         //Ensure all images are the same size
-        $page_html = str_replace(' alt=', ' height="373" width="534" alt=', $page_html);
+        $page_html = str_replace(' alt=', ' class="card-img" alt=', $page_html);
         
         //Make the links to the gather page open in a new tab/window
         $page_html = str_replace('href=', 'target="_blank" href=', $page_html);

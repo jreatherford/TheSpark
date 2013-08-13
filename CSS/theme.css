@@ -37,3 +37,8 @@ a:active {
     text-decoration:none;
 }
 
+.card-img{
+    height:373px;
+    width:534px;
+    border-radius: 26px;
+}
