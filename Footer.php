@@ -6,5 +6,5 @@
     All rights to Magic the Gathering ownership belongs to 
     <a href ="http://company.wizards.com/">Wizzards of the Coast</a>.<br>
     Card data collected from <a href="http://gatherer.wizards.com/Pages/Default.aspx">The Gather</a>.<br>
-    <a href="https://github.com/jreatherford/TheSpark">View source on Github</a>
+    <a href="https://github.com/jreatherford/TheSpark">View on Github</a>
 </footer>

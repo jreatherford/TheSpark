@@ -3,7 +3,7 @@
  * THE SPARK
  * James Reatherford (2013)
  * ----------------------------------------------------------------------------
- * The spark is a PHP script that searches the gatherer for planeschase cards
+ * The spark is a PHP script that searches the gatherer for planechase cards
  * and stores a link to their image/page to a file.  It then comes with a
  * function that displays a random card.
  ******************************************************************************/

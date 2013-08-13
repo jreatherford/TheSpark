@@ -10,7 +10,8 @@
     
     <body align="center">
         <h1>
-            The Spark v0.4  <br>
+                The Spark
+            <br>
             <!--These show up as Mana Symbols in the MAGIC font-->
             @ + = < >  
         </h1>
