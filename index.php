@@ -8,7 +8,7 @@
     <body align="center">
         
         <h1>
-            The Spark v0.2  <br>
+            The Spark v0.4  <br>
             @ + = < >  <!--These show up as Mana Symbols in the MAGIC font-->
         </h1>
             <img src="img/card.jpg">
