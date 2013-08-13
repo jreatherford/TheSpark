@@ -1,6 +1,7 @@
 <!--Footer to be used in all spark pages-->
 <footer>
-    Site Design & Code by James Reatherford (2013). <br>
+    Site Design & Code by <a href="https://github.com/jreatherford">James Reatherford</a> (2013). <br>
+    Additional Code by <a href="https://github.com/tlindsay">Patrick Lindsay</a> <br>
     "Magic: The Gathering" font created by <a href ="http://www.urbanfonts.com/fonts.php?fontauthor=1114">Stickfronts</a> <br>
     This is a fan made site. I claim no rights or ownership to Magic The Gathering. <br>
     All rights to Magic the Gathering ownership belongs to 
