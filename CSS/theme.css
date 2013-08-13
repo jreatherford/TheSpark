@@ -1,8 +1,7 @@
 @font-face
 {
 font-family: Magic;
-src: url('MAGIC.ttf'),
-     url('MAGIC.eot'); /* IE9 */
+src: url('MAGIC.TTF')
 }
 
 body
@@ -22,19 +21,19 @@ footer
 }
 
 a:link {
-    color:#FF99FF;
+    color:#FF00CC;
     text-decoration:none;
 }
 a:visited {
-    color:#FF99FF;
+    color:#FF00CC;
     text-decoration:none;
 }
 a:hover {
-    color:#FF99FF;
+    color:#FF00CC;
     text-decoration:none;
 }
 a:active {
-    color:#FF99FF;
+    color:#FF00CC;
     text-decoration:none;
 }
 

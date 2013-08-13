@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <link rel="stylesheet" type="text/css" href="css/theme.css">
+        <link rel="stylesheet" type="text/css" href="CSS/theme.css">
         <title>
             The Spark
         </title>
@@ -16,13 +16,13 @@
             @ + = < >  
         </h1>
         
-        <img src="img/card.jpg">
+        <img src="IMG/card.jpg">
         
         <br>
         <br>
 
         <h2>
-            <a href ="game/play.php">Begin your Journey</a>
+            <a href ="Game/Play.php">Begin your Journey</a>
         </h2>
 
         <br>

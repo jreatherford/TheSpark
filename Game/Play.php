@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <link rel="stylesheet" type="text/css" href="../css/theme.css">
+        <link rel="stylesheet" type="text/css" href="../CSS/theme.css">
         <title>
             The Spark
         </title>
@@ -86,7 +86,7 @@
             <a href ="Javascript:rollDie()">Roll the Planar Die</a>
             <br>
             <br>
-            <a href ="play.php">Planeswalk</a>
+            <a href ="Play.php">Planeswalk</a>
         </h2>
     </body>
     <?php include_once "../Footer.php"; ?>
