@@ -1,0 +1,10 @@
+Things that I need to change before I will be ready to host this online:
+
+Make the interface prettier
+Add an "About" page
+Improve Documentation
+
+Improve the update function (this acually can be done after I host it online)
+	Updates on command, not just when there are no cards
+	Makes backups before update
+	Can look for problems with updates (e.g., less cards in new version)

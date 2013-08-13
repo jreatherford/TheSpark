@@ -26,12 +26,25 @@ class Spark {
         //get all the info from the search page
         $page_html = file_get_contents(self::url_pattern);
         
+        /*
+         * This is the part of the code where it gets a little hackish
+         * Basically, we have all the info we need, but we need to modify it
+         * before it will be usefull...
+         */
+        
         //change the relative links to direct links
         $page_html = str_replace("../../",self::img_header,$page_html);
         $page_html = str_replace("../",self::url_header,$page_html);
         
         //Ensure all images are the same size
         $page_html = str_replace(' alt=', ' height="373" width="534" alt=', $page_html);
+        
+        //Make the links to the gather page open in a new tab/window
+        $page_html = str_replace('href=', 'target="_blank" href=', $page_html);
+        
+        /*
+         * Ok, now that the information is edited, we can fetch it
+         */
         
         //mine the info from the cards and store it in an array
         preg_match_all("#<a\sid.+\/></a>#",$page_html,$cards);
