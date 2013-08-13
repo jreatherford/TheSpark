@@ -58,7 +58,7 @@ class Spark {
     public static function Draw ()
     {
         //if there is no library, create one
-        if (file_exists(self::library) == false)
+        // if (file_exists(self::library) == false)
             Spark::Scour();
         
         $cards = unserialize(file_get_contents(self::library));
