@@ -1,0 +1,40 @@
+@font-face
+{
+font-family: Magic;
+src: url('MAGIC.ttf'),
+     url('MAGIC.eot'); /* IE9 */
+}
+
+body
+{
+    font-family:Magic; /* Font */
+    font-size:25px; /* Font Size */
+    color:#FF9900;
+    background-color:#000000;
+}
+
+footer
+{
+    font-family:Magic; /* Font */
+    font-size:18px; /* Font Size */
+    color:#FF9900;
+    background-color:#000000;
+}
+
+a:link {
+    color:#FF99FF;
+    text-decoration:none;
+}
+a:visited {
+    color:#FF99FF;
+    text-decoration:none;
+}
+a:hover {
+    color:#FF99FF;
+    text-decoration:none;
+}
+a:active {
+    color:#FF99FF;
+    text-decoration:none;
+}
+
